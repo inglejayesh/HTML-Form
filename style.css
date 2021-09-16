@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: beige;
+}
+
+nav {
+    background-color: rgba(4, 91, 206, 0.808);
+    padding: 10px;
+}
+
+.form {
+    display: inline-block;
+    color: azure;
+}
+
+footer {
+    background-color: rgba(4, 91, 206, 0.808);
+    padding: 10px;
+    color: azure;
+    margin-top: 215px;
+}
